@@ -1,1 +1,2 @@
-# kamehameha
+# The Kamehameha Hugo Learning Lab
+---
